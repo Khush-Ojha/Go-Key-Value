@@ -1,7 +1,6 @@
 # Go-Redis (Lite)
 
 ![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A high-performance, persistent in-memory key-value store built from scratch in Go.
 
@@ -63,7 +62,3 @@ This project mimics the core architecture of **Redis**, featuring a custom TCP p
 - **Memory Management:** Implemented both active (GC) and passive (Lazy) expiration strategies.
 - **Durability:** Learned how to bridge the gap between volatile memory (RAM) and non-volatile storage (Disk) using write-ahead logging.
 - **Race Conditions:** Solved data corruption issues using granular locking (`RLock` vs `Lock`).
-
-## 📝 License
-
-This project is licensed under the MIT License.
