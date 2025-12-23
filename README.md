@@ -32,7 +32,7 @@ This project mimics the core architecture of **Redis**, featuring a custom TCP p
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/Khush-Ojha/go-redis.git](https://github.com/Khush-Ojha/go-redis.git)
+    git clone [https://github.com/Khush-Ojha/Go-Key-Value.git](https://github.com/Khush-Ojha/Go-Key-Value.git)
     cd go-redis
     ```
 
